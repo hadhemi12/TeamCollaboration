@@ -1,4 +1,6 @@
-#TeamCollaboration
+\#TeamCollaboration
 
 ## Project Description
- This project is developed for DevOps students.
+
+This project is developed for distributed system students.
+
